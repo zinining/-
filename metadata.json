@@ -1,0 +1,6 @@
+{
+  "name": "먼작귀 미니게임",
+  "description": "귀여운 먼작귀(치이카와) 친구들과 함께하는 3가지 미니게임(토벌 대작전, 잡초 뽑기 시험, 달콤한 간식 받기)과 스타 코인으로 뽑는 피규어 도감!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
